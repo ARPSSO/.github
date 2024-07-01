@@ -1,5 +1,3 @@
-# .github
-
 <br />
 <div align="center">
   <a href="https://arpsso.live/">
@@ -14,7 +12,7 @@
   <p align="center">
     An RP-anonymization-based privacy-preserving SSO scheme.
     <br />
-    <a href="https://github.com/ARPSSO/ARPSSO"><strong> This repository serves as an index for the ARPSSO project, offering up-to-date links to the demo site, source files, the full version paper, and more.</strong></a>
+    <a href="https://github.com/ARPSSO/ARPSSO"><strong> Here is the index for the ARPSSO project.</strong></a>
 
   </p>
 </div>

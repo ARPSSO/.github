@@ -18,3 +18,8 @@
 </div>
 
 ARPSSO is the first privacy-preserving SSO system based on OpenID Connect and Auth 2.0 code flow.
+
+## Publication
+He, Junlin, et al. "ARPSSO: An OIDC-Compatible Privacy-Preserving SSO Scheme Based on RP Anonymization." European Symposium on Research in Computer Security. Cham: Springer Nature Switzerland, 2024. 
+
+https://link.springer.com/chapter/10.1007/978-3-031-70890-9_14
